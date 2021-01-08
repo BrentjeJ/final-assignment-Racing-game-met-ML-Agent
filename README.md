@@ -96,7 +96,7 @@ Zoals reeds vermeld zijn alle objecten die gebruikt zijn in dit project gebundel
 
 ##### Player Car
 
-![PlayerCar](Images/PlayerCar.png)
+![PlayerCar](images/PlayerCar.png)
 ![PlayerCarSettings](./images/PlayerCarSettings.png)
 ![PlayerCarWheelColliders](./images/PlayerCarWheelColliders.png)
 
